@@ -28,4 +28,4 @@ Estrutura do projeto:
     
 7. $ docker compose down -v
 
-Link para explicações e passo a passo que foi criado para esse projeto: https://www.canva.com/design/DAFSzg0yMBI/VTwbeFDy2M9OGmTOli6frA/edit?utm_content=DAFSzg0yMBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#32
+Link para explicações e passo a passo que foi criado para esse projeto: https://www.canva.com/design/DAFSzg0yMBI/VTwbeFDy2M9OGmTOli6frA/edit#1
