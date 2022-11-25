@@ -19,10 +19,7 @@ Estrutura do projeto:
  
 3. Resultados esperados:
 4. $ docker ps
-
-CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                 NAMES
-5fbb4181a069        wordpress:latest    "docker-entrypoint.s…"   35 seconds ago      Up 34 seconds       0.0.0.0:80->80/tcp    wordpress-mysql_wordpress_1
-e0884a8d444d        mysql:8.0.19        "docker-entrypoint.s…"   35 seconds ago      Up 34 seconds       3306/tcp, 33060/tcp 
+![image](https://user-images.githubusercontent.com/62100022/204059980-2d486fd2-5a0c-4f21-9a50-b3758b91e1bc.png)
 
 5. Navegar para http://localhost:80 no seu web browser para acessar WordPress.
 
