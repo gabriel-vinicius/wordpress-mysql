@@ -19,6 +19,7 @@ Estrutura do projeto:
  
 3. Resultados esperados:
 4. $ docker ps
+
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                 NAMES
 5fbb4181a069        wordpress:latest    "docker-entrypoint.s…"   35 seconds ago      Up 34 seconds       0.0.0.0:80->80/tcp    wordpress-mysql_wordpress_1
 e0884a8d444d        mysql:8.0.19        "docker-entrypoint.s…"   35 seconds ago      Up 34 seconds       3306/tcp, 33060/tcp 
@@ -29,3 +30,5 @@ e0884a8d444d        mysql:8.0.19        "docker-entrypoint.s…"   35 seconds ag
     $ docker compose down
     
 7. $ docker compose down -v
+
+Link para explicações e passo a passo que foi criado para esse projeto: https://www.canva.com/design/DAFSzg0yMBI/VTwbeFDy2M9OGmTOli6frA/edit?utm_content=DAFSzg0yMBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#32
